@@ -1,2 +1,2 @@
-# szakdolgozatBuild
-A szakdolgozat futtatható alkalmazása
+# A szakdolgozat futtatható alkalmazása
+
